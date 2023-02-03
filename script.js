@@ -1,5 +1,5 @@
 const names = ["Mehmet", "Elif", "Ali", "Muhammed", "Adal", "Ağıç", "Şaban", "Selahettin", "Demir", "Berk"];
-const surnames = ["ABACIOĞLU", "ÇALIŞKANTÜRK", "DEMİR", "TURGUT", "ZÜMRÜT", "ELMAS", "KIZILTAŞ", "KÖMÜR", "KIZIL", "SİYAH"];
+const surnames = ["ABACIOĞLU", "ÇALIŞKANTÜRK", "DEMİR", "TURGUT", "ZÜMRÜT", "ELMAS", "BALLI", "ZORTLU", "KARTÇI", "DATACI"];
 
 const generate = document.getElementById("generate-button");
 const name = document.getElementById("name");
