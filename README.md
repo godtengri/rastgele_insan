@@ -9,3 +9,6 @@ Rastgele insan yaratıcısı isim, soyisim, tam doğum tarihi ve yaş ile çalı
 
 > Güncelleme
 - Yakında rastgele kredi kartı, numara (tabii ki geçersiz numara ve kredi kartları olacak) oluşturucu ekleyeceğim, bu yüzden takip etmenizde fayda var
+
+> Lisans
+- İstediğiniz gibi kullanabilirsiniz aşk böceklerim umrumda değil, ben yaptım bile diyebilirsiniz 
